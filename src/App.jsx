@@ -1,7 +1,12 @@
 import "./App.css";
+import AgeCalculator from "./components/AgeCalculator";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <AgeCalculator />
+    </>
+  );
 }
 
 export default App;

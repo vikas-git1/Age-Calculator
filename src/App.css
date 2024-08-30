@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  max-height: 100vh;
+  background: linear-gradient(
+    90deg,
+    rgba(174, 0, 255, 0.767),
+    rgba(0, 0, 255, 0.79),
+    rgba(0, 162, 255, 0.813)
+  );
+}
